@@ -1,0 +1,76 @@
+body{
+    background-color: rgb(63, 61, 61);
+}
+header{
+    background-image: url("Ceu-Azul.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100px;
+    width: auto;
+    padding-top: 20px;
+}
+h1{
+    border: 10px;
+    background-color: rgb(77, 163, 77);
+}
+nav{
+    display: flex;
+    align-items: center;
+    background-color: white;
+
+}
+a{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    color: rgb(39, 128, 39);
+}
+a:hover{
+    font-size: 20px;
+    color: black;
+}
+img{
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+}
+main{
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+    align-items: center;
+    margin: 20px;
+}
+div{
+    width: auto;
+    height: auto;
+    margin: 20px;
+}
+#a{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+aside{
+    width: 400px;
+}
+p{
+    text-align: justify;
+    color: white;
+    margin: 20px;
+}
+.b{
+    width: 350px;
+}
+li{
+    display: flex;
+    align-items: center;
+}
+.c{
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 1000px;
+}
+#e{
+    margin-left: 20px;
+}
